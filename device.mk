@@ -83,7 +83,7 @@ PRODUCT_COPY_FILES += \
 
 # ANT
 PRODUCT_PACKAGES += \
-    com.dsi.ant.antradio_library \
+#    com.dsi.ant.antradio_library \
     libantradio
 
 # Audio
